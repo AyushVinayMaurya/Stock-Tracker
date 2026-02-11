@@ -32,16 +32,14 @@ Signal List provides real-time stock data, technical indicators, price alerts, a
 - CSS3  
 - Tailwind CSS  
 
-### Backend
-- Java  
-- Spring Boot  
+ 
 
 ### Database
 - MongoDB  
-- Firebase  
+  
 
 ### Cloud & Services
-- AWS  
+
 - Inngest  
 
 ### Authentication
@@ -95,6 +93,3 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
